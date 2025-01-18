@@ -95,8 +95,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Jeff Jiang - [soul.lee.pro@gmail.com](mailto:soul.lee.pro@gmail.com)
-
 Project Link: [https://github.com/crazysoftdev/movie-app](https://github.com/crazysoftdev/movie-app)
 
 ## Acknowledgements
